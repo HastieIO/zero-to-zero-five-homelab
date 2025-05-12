@@ -4,7 +4,7 @@ This project documents the creation and hardening of my first homelab using Prox
 
 > 📄 **Read the full write-up:**  
 > [zero-to-zero-five-lab.pdf](Zero to Zero.Five.pdf)
-> You can read the Blog Style on my website [https://pingdenney.tech/blog/zero-to-zero-five]
+> You can read the Blog Style on my (website) [https://pingdenney.tech/blog/zero-to-zero-five]
 
 ## 🔐 Key Objectives
 
@@ -29,4 +29,4 @@ This lab serves as the foundation for larger projects, including:
 ## 👨‍💻 Author
 
 **Denney Thongphet**  
-🔗 [pingdenney.tech](https://pingdenney.tech) • [LinkedIn](https://www.linkedin.com/in/denneyt)
+🔗 [pingdenney.tech](https://pingdenney.tech) • [LinkedIn](https://www.linkedin.com/in/denney-t-167546261/)
