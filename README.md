@@ -3,7 +3,8 @@
 This project documents the creation and hardening of my first homelab using Proxmox VE, designed to simulate real-world infrastructure with a focus on security and remote management.
 
 > 📄 **Read the full write-up:**  
-> [zero-to-zero-five-lab.pdf](zero-to-zero-five-lab.pdf)
+> [zero-to-zero-five-lab.pdf](Zero to Zero.Five.pdf)
+> You can read the Blog Style on my website [https://pingdenney.tech/blog/zero-to-zero-five]
 
 ## 🔐 Key Objectives
 
@@ -28,5 +29,4 @@ This lab serves as the foundation for larger projects, including:
 ## 👨‍💻 Author
 
 **Denney Thongphet**  
-Cybersecurity Intern @ Mutual of Omaha  
 🔗 [pingdenney.tech](https://pingdenney.tech) • [LinkedIn](https://www.linkedin.com/in/denneyt)
